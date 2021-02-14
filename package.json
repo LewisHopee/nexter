@@ -1,25 +1,40 @@
 {
-  "name": "Nexter",
+  "name": "nexter",
   "version": "1.0.0",
   "description": "Nexter webpage",
-  "main": "index.js",
+  "default": "index.html",
   "scripts": {
-    "watch:sass": "node-sass sass/main.scss css/style.css -w",
-    "devserver": "live-server --browser=firefox",
-    "start": "npm-run-all --parallel devserver watch:sass",
-
-    "compile:sass": "node-sass sass/main.scss css/style.comp.css",
-    "prefix:css": "postcss --use autoprefixer -b 'last 10 versions' css/style.comp.css -o css/style.prefix.css",
-    "compress:css": "node-sass css/style.prefix.css css/style.css --output-style compressed",
-    "build:css": "npm-run-all compile:sass prefix:css compress:css"
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Lewis",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/optimizer-cssnano": "^2.0.0-nightly.594",
+    "@parcel/optimizer-htmlnano": "^2.0.0-nightly.594",
+    "@parcel/packager-css": "^2.0.0-nightly.594",
+    "@parcel/packager-html": "^2.0.0-nightly.594",
+    "@parcel/transformer-css": "^2.0.0-nightly.594",
+    "@parcel/transformer-html": "^2.0.0-nightly.594",
+    "@parcel/transformer-postcss": "^2.0.0-nightly.594",
+    "@parcel/transformer-posthtml": "^2.0.0-nightly.594",
     "autoprefixer": "^7.1.4",
     "concat": "^1.0.3",
     "node-sass": "^4.5.3",
     "npm-run-all": "^4.1.1",
+    "postcss": "^8.2.6",
     "postcss-cli": "^4.1.1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewisHopee/portfolio-project3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LewisHopee/portfolio-project3/issues"
+  },
+  "homepage": "https://github.com/LewisHopee/portfolio-project3#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-nightly.592"
   }
 }

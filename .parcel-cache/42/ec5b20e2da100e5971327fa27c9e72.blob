@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        
+        <link href="077713186ab5a5c7a18d81dbc9630814" rel="stylesheet">
+        <link rel="stylesheet" href="81c3618fe977e55138647d0355db827c">
+        <link rel="shortcut icon" type="image/png" href="c3eda4dd8c8c0984819e1557bcee0615">
+        
+        <title>nexter &mdash; your home, your freedom</title>
+    </head>
+    <body class="container">
+        <div class="sidebar">
+            <button class="nav-btn"></button>
+        </div>
+
+        <header class="header">
+            <img src="9f1045b703eaf81c95332ad96baa3856" alt="Nexter logo" class="header__logo">
+            <h3 class="heading-3">Your own home:</h3>
+            <h1 class="heading-1">The ultimate personal freedom</h1>
+            <button class="btn header__btn">View our properties</button>
+            <div class="header__seenon-text">Seen on</div>
+            <div class="header__seenon-logos">
+                <img src="f4fa548086cf6c6892d44dee09e8ae41" alt="Seen on logo 1">
+                <img src="1040629b73d8d1e7c74272ad887ddcf0" alt="Seen on logo 2">
+                <img src="f3776b8add274b209e7e19e160278b27" alt="Seen on logo 3">
+                <img src="50955f87f45bb2085a5273ad4bd97ef4" alt="Seen on logo 4">
+            </div>
+        </header>
+
+        <div class="realtors">
+            <h3 class="heading-3">Top 3 Realtors</h3>
+            <div class="realtors__list">
+                <img src="7177a6f75649a8e5ffbeab8e791a75e7" alt="Realtor 1" class="realtors__img">
+                <div class="realtors__details">
+                    <h4 class="heading-4 heading-4--light">Erik Feinman</h4>
+                    <p class="realtors__sold">245 houses sold</p>
+                </div>
+
+                <img src="3eb323d834c477d88b44091ac51ae59b" alt="Realtor 2" class="realtors__img">
+                <div class="realtors__details">
+                    <h4 class="heading-4 heading-4--light">Kim Brown</h4>
+                    <p class="realtors__sold">212 houses sold</p>
+                </div>
+
+                <img src="10c76db9789ee70d5c03c12720dd924b" alt="Realtor 3" class="realtors__img">
+                <div class="realtors__details">
+                    <h4 class="heading-4 heading-4--light">Toby Ramsey</h4>
+                    <p class="realtors__sold">198 houses sold</p>
+                </div>
+            </div>
+        </div>
+
+        <section class="features">
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="231821967b8bf04704832940a77a0229"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">World's best luxury homes</h4>
+                <p class="feature__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="7045df012f993178d6da9143ad8e0c3e"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">Only the best properties</h4>
+                <p class="feature__text">Voluptatum mollitia quae. Vero ipsum sapiente molestias accusamus rerum sed a eligendi aut quia.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="d5f2c3a63a746a9a88ad16781654be39"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">All homes in in top locations</h4>
+                <p class="feature__text">Tenetur distinctio necessitatibus pariatur voluptatibus quidem consequatur harum.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="fa4517617f34819a045063a4cae4070a"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">New home in one week</h4>
+                <p class="feature__text">Vero ipsum sapiente molestias accusamus rerum. Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="fcee121031d8023e4574711a10d6d7f2"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">Top 1% realtors</h4>
+                <p class="feature__text">Quidem consequatur harum, voluptatum mollitia quae. Tenetur distinctio necessitatibus pariatur voluptatibus.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="5d6fd4b5c4b35a3ba3298ecd2e94f98f"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">Secure payments on nexter</h4>
+                <p class="feature__text">Pariatur voluptatibus quidem consequatur harum, voluptatum mollitia quae.</p>
+            </div>
+        </section>
+
+        <div class="story__pictures">
+            <img src="3167305fa4201db943f173449e24cfc7" alt="Couple with new house" class="story__img--1">
+            <img src="f0bc680256fc02ffa75fdb90c7a84cf5" alt="New house" class="story__img--2">
+        </div>
+
+        <div class="story__content">
+            <h3 class="heading-3 mb-sm">Happy Customers</h3>
+            <h2 class="heading-2 heading-2--dark mb-md">&ldquo;The best decision of our lives&rdquo;</h2>
+            <p class="story__text">
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus. Quidem consequatur harum volupta!
+            </p>
+            <button class="btn">Find your own home</button>
+        </div>
+
+        <section class="homes">
+            <div class="home">
+                <img src="c9728ed2495da76bc4c20db69a89eeb6" alt="House 1" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="70d516037dcc71cdda317afe4af0732b"></use>
+                </svg>
+                <h5 class="home__name">Beautiful Familiy House</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="d5f2c3a63a746a9a88ad16781654be39"></use>
+                    </svg>
+                    <p>USA</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="ad6912c9c0f5e42049e61940bfd31d5c"></use>
+                    </svg>
+                    <p>5 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="294b74d40ed75b2d21517ad47af73dbf"></use>
+                    </svg>
+                    <p>325 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="fa4517617f34819a045063a4cae4070a"></use>
+                    </svg>
+                    <p>$1,200,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            
+            <div class="home">
+                <img src="a1f609a911ef75d2d0d667ddbe8c24f0" alt="House 2" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="70d516037dcc71cdda317afe4af0732b"></use>
+                </svg>
+                <h5 class="home__name">Modern Glass Villa</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="d5f2c3a63a746a9a88ad16781654be39"></use>
+                    </svg>
+                    <p>Canada</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="ad6912c9c0f5e42049e61940bfd31d5c"></use>
+                    </svg>
+                    <p>6 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="294b74d40ed75b2d21517ad47af73dbf"></use>
+                    </svg>
+                    <p>450 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="fa4517617f34819a045063a4cae4070a"></use>
+                    </svg>
+                    <p>$2,750,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            <div class="home">
+                <img src="c203c41f130b2a9669357f49ca6b3bc8" alt="House 3" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="70d516037dcc71cdda317afe4af0732b"></use>
+                </svg>
+                <h5 class="home__name">Cozy Country House</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="d5f2c3a63a746a9a88ad16781654be39"></use>
+                    </svg>
+                    <p>UK</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="ad6912c9c0f5e42049e61940bfd31d5c"></use>
+                    </svg>
+                    <p>4 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="294b74d40ed75b2d21517ad47af73dbf"></use>
+                    </svg>
+                    <p>250 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="fa4517617f34819a045063a4cae4070a"></use>
+                    </svg>
+                    <p>$850,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            <div class="home">
+                <img src="b7496a1569d33ccff9afcb997717f86e" alt="House 4" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="70d516037dcc71cdda317afe4af0732b"></use>
+                </svg>
+                <h5 class="home__name">Large Rustical Villa</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="d5f2c3a63a746a9a88ad16781654be39"></use>
+                    </svg>
+                    <p>Portugal</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="ad6912c9c0f5e42049e61940bfd31d5c"></use>
+                    </svg>
+                    <p>6 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="294b74d40ed75b2d21517ad47af73dbf"></use>
+                    </svg>
+                    <p>480 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="fa4517617f34819a045063a4cae4070a"></use>
+                    </svg>
+                    <p>$1,950,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            <div class="home">
+                <img src="e26e6cc3883ea45141070cc616f495eb" alt="House 5" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="70d516037dcc71cdda317afe4af0732b"></use>
+                </svg>
+                <h5 class="home__name">Majestic Palace House</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="d5f2c3a63a746a9a88ad16781654be39"></use>
+                    </svg>
+                    <p>Germany</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="ad6912c9c0f5e42049e61940bfd31d5c"></use>
+                    </svg>
+                    <p>18 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="294b74d40ed75b2d21517ad47af73dbf"></use>
+                    </svg>
+                    <p>4230 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="fa4517617f34819a045063a4cae4070a"></use>
+                    </svg>
+                    <p>$9,500,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            <div class="home">
+                <img src="dc86098589fa397f92f1844622aadb9b" alt="House 6" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="70d516037dcc71cdda317afe4af0732b"></use>
+                </svg>
+                <h5 class="home__name">Modern Familiy Apartment</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="d5f2c3a63a746a9a88ad16781654be39"></use>
+                    </svg>
+                    <p>Italy</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="ad6912c9c0f5e42049e61940bfd31d5c"></use>
+                    </svg>
+                    <p>3 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="294b74d40ed75b2d21517ad47af73dbf"></use>
+                    </svg>
+                    <p>180 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="fa4517617f34819a045063a4cae4070a"></use>
+                    </svg>
+                    <p>$600,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+        </section>
+
+
+        <section class="gallery">
+            <figure class="gallery__item gallery__item--1"><img src="b8a6d221d5f4c95a4ebf6b8bd7c7c365" alt="Gallery image 1" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--2"><img src="3d22e8c64271e2a17a28cc13dc6a4f32" alt="Gallery image 2" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--3"><img src="7dfb73704a770d9860817e9d0b732d12" alt="Gallery image 3" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--4"><img src="bc4666c267f234312a3cbe80e7e25a4a" alt="Gallery image 4" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--5"><img src="e2be05835085f415c24b3a40e5abdebf" alt="Gallery image 5" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--6"><img src="7333058fda731592608cca87b49ba5c6" alt="Gallery image 6" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--7"><img src="d39cafda11aaee1b9e662d48b33a18aa" alt="Gallery image 7" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--8"><img src="6e08b1a1b6fbc942b03c511847d3cc37" alt="Gallery image 8" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--9"><img src="eb65283daafd64857bb145a28b319bdf" alt="Gallery image 9" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--10"><img src="2dadd9f9e5924a23565a09e2b4729772" alt="Gallery image 10" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--11"><img src="b29fb61f2849d233de1ae1d134b2b0bf" alt="Gallery image 11" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--12"><img src="426a3849c338f1a5bb71345935f7ac19" alt="Gallery image 12" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--13"><img src="8acd0c8291f825a628c51e773b14eba0" alt="Gallery image 13" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--14"><img src="c40049a20ac560fe2b7a90a6692e496a" alt="Gallery image 14" class="gallery__img"></figure>
+
+
+        </section>
+
+        <footer class="footer">
+            <ul class="nav">
+                    <li class="nav__item"><a href="#" class="nav__link">Find your dream home</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Request proposal</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Download home planner</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Contact us</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Submit your property</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Come work with us!</a></li>
+            </ul>
+            <p class="copyright">
+                &copy; Copyright 2017 by Jonas Schmedtmann. Feel free to use this project for your own purposes. This does NOT apply if you plan to produce your own course or tutorials based on this project.
+            </p>
+        </footer>
+    </body>
+</html>

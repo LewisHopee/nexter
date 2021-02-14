@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,400i|Nunito:300,300i" rel="stylesheet">
+        <link rel="stylesheet" href="/index.HASH_REF_fd2ab90d027c36bc482ca7edea68c68a.css">
+        <link rel="shortcut icon" type="image/png" href="/favicon.HASH_REF_28c47f3d7347142e8de617ec524e32b7.png">
+        
+        <title>nexter &mdash; your home, your freedom</title>
+    </head>
+    <body class="container">
+        <div class="sidebar">
+            <button class="nav-btn"></button>
+        </div>
+
+        <header class="header">
+            <img src="/logo.HASH_REF_860ebeb2c8b210810797ff2b16379bdd.png" alt="Nexter logo" class="header__logo">
+            <h3 class="heading-3">Your own home:</h3>
+            <h1 class="heading-1">The ultimate personal freedom</h1>
+            <button class="btn header__btn">View our properties</button>
+            <div class="header__seenon-text">Seen on</div>
+            <div class="header__seenon-logos">
+                <img src="/logo-bbc.HASH_REF_ba52ef3dea13d503979a20ff7709f10d.png" alt="Seen on logo 1">
+                <img src="/logo-forbes.HASH_REF_fbc09014e3cde082e2252868a338eb0c.png" alt="Seen on logo 2">
+                <img src="/logo-techcrunch.HASH_REF_86956a6e889fcf22fdd544d7656d2b9b.png" alt="Seen on logo 3">
+                <img src="/logo-bi.HASH_REF_394f81a01de4566c36ba95a88521f839.png" alt="Seen on logo 4">
+            </div>
+        </header>
+
+        <div class="realtors">
+            <h3 class="heading-3">Top 3 Realtors</h3>
+            <div class="realtors__list">
+                <img src="/realtor-1.HASH_REF_6be33fd4b960acdcda640fcf7bf34608.jpeg" alt="Realtor 1" class="realtors__img">
+                <div class="realtors__details">
+                    <h4 class="heading-4 heading-4--light">Erik Feinman</h4>
+                    <p class="realtors__sold">245 houses sold</p>
+                </div>
+
+                <img src="/realtor-2.HASH_REF_b413f7387e2dbc3fc1065874f36f4d81.jpeg" alt="Realtor 2" class="realtors__img">
+                <div class="realtors__details">
+                    <h4 class="heading-4 heading-4--light">Kim Brown</h4>
+                    <p class="realtors__sold">212 houses sold</p>
+                </div>
+
+                <img src="/realtor-3.HASH_REF_cd51a833b8c12d296b496998c8481a39.jpeg" alt="Realtor 3" class="realtors__img">
+                <div class="realtors__details">
+                    <h4 class="heading-4 heading-4--light">Toby Ramsey</h4>
+                    <p class="realtors__sold">198 houses sold</p>
+                </div>
+            </div>
+        </div>
+
+        <section class="features">
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">World's best luxury homes</h4>
+                <p class="feature__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">Only the best properties</h4>
+                <p class="feature__text">Voluptatum mollitia quae. Vero ipsum sapiente molestias accusamus rerum sed a eligendi aut quia.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">All homes in in top locations</h4>
+                <p class="feature__text">Tenetur distinctio necessitatibus pariatur voluptatibus quidem consequatur harum.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">New home in one week</h4>
+                <p class="feature__text">Vero ipsum sapiente molestias accusamus rerum. Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">Top 1% realtors</h4>
+                <p class="feature__text">Quidem consequatur harum, voluptatum mollitia quae. Tenetur distinctio necessitatibus pariatur voluptatibus.</p>
+            </div>
+
+            <div class="feature">
+                <svg class="feature__icon">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h4 class="heading-4 heading-4--dark">Secure payments on nexter</h4>
+                <p class="feature__text">Pariatur voluptatibus quidem consequatur harum, voluptatum mollitia quae.</p>
+            </div>
+        </section>
+
+        <div class="story__pictures">
+            <img src="/story-1.HASH_REF_00874844a57568f138ec6c20ef2ee43f.jpeg" alt="Couple with new house" class="story__img--1">
+            <img src="/story-2.HASH_REF_35cc6a6739f120bf345355430ddbcf25.jpeg" alt="New house" class="story__img--2">
+        </div>
+
+        <div class="story__content">
+            <h3 class="heading-3 mb-sm">Happy Customers</h3>
+            <h2 class="heading-2 heading-2--dark mb-md">&ldquo;The best decision of our lives&rdquo;</h2>
+            <p class="story__text">
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus. Quidem consequatur harum volupta!
+            </p>
+            <button class="btn">Find your own home</button>
+        </div>
+
+        <section class="homes">
+            <div class="home">
+                <img src="/house-1.HASH_REF_0da8c58f30e4950cce4f38598609bea1.jpeg" alt="House 1" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h5 class="home__name">Beautiful Familiy House</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>USA</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>5 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>325 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>$1,200,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            
+            <div class="home">
+                <img src="/house-2.HASH_REF_27f27d52ae09f7db242abaf465ece546.jpeg" alt="House 2" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h5 class="home__name">Modern Glass Villa</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>Canada</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>6 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>450 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>$2,750,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            <div class="home">
+                <img src="/house-3.HASH_REF_209365fb16e953e2ee01c01dd4c78bfa.jpeg" alt="House 3" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h5 class="home__name">Cozy Country House</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>UK</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>4 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>250 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>$850,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            <div class="home">
+                <img src="/house-4.HASH_REF_5067f6757e8280351604f8feff69fd11.jpeg" alt="House 4" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h5 class="home__name">Large Rustical Villa</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>Portugal</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>6 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>480 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>$1,950,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            <div class="home">
+                <img src="/house-5.HASH_REF_53a573072cb4a49d65230edadaba9839.jpeg" alt="House 5" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h5 class="home__name">Majestic Palace House</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>Germany</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>18 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>4230 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>$9,500,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+
+            <div class="home">
+                <img src="/house-6.HASH_REF_e51c7521060566147571f4ed51b3daa4.jpeg" alt="House 6" class="home__img">
+                <svg class="home__like">
+                    <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                </svg>
+                <h5 class="home__name">Modern Familiy Apartment</h5>
+                <div class="home__location">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>Italy</p>
+                </div>
+                <div class="home__rooms">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>3 rooms</p>
+                </div>
+                <div class="home__area">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>180 m<sup>2</sup></p>
+                </div>
+                <div class="home__price">
+                    <svg>
+                        <use xlink:href="/sprite.HASH_REF_6a116ce777ba9e9529bd9e271f2884c6.svg"></use>
+                    </svg>
+                    <p>$600,000</p>
+                </div>
+                <button class="btn home__btn">Contact realtor</button>
+            </div>
+        </section>
+
+
+        <section class="gallery">
+            <figure class="gallery__item gallery__item--1"><img src="/gal-1.HASH_REF_085859e882ebdadb84e82cd23bd9373f.jpeg" alt="Gallery image 1" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--2"><img src="/gal-2.HASH_REF_4ad6e61bff4a23a923f368e06c4f9aa6.jpeg" alt="Gallery image 2" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--3"><img src="/gal-3.HASH_REF_c3a3ebec3152b24e4be6cda32c1517ce.jpeg" alt="Gallery image 3" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--4"><img src="/gal-4.HASH_REF_4d3f91faf469f337cfc05ac67a3ef4fd.jpeg" alt="Gallery image 4" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--5"><img src="/gal-5.HASH_REF_5f04e11705bcd60d42286ffe6dc9f3c6.jpeg" alt="Gallery image 5" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--6"><img src="/gal-6.HASH_REF_b1a79b27533b017049511ab37b38982d.jpeg" alt="Gallery image 6" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--7"><img src="/gal-7.HASH_REF_ea115511b9bbf3bccfaff2f8fbbe9734.jpeg" alt="Gallery image 7" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--8"><img src="/gal-8.HASH_REF_cee0e8fbf3988355ae55cb510e4680af.jpeg" alt="Gallery image 8" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--9"><img src="/gal-9.HASH_REF_db78bfeba640fafbecbf4a6594690667.jpeg" alt="Gallery image 9" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--10"><img src="/gal-10.HASH_REF_5c443b38eb570a3f5b98c15299fe8092.jpeg" alt="Gallery image 10" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--11"><img src="/gal-11.HASH_REF_30631371f6f3e2f73a510acde88c04db.jpeg" alt="Gallery image 11" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--12"><img src="/gal-12.HASH_REF_c06eedec0c3fc68c94bfb9f586f26c62.jpeg" alt="Gallery image 12" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--13"><img src="/gal-13.HASH_REF_cd93645c63f69825678aba6b7113e42f.jpeg" alt="Gallery image 13" class="gallery__img"></figure>
+            <figure class="gallery__item gallery__item--14"><img src="/gal-14.HASH_REF_b8771f5bb4cbfef134ba460a92d9bec4.jpeg" alt="Gallery image 14" class="gallery__img"></figure>
+
+
+        </section>
+
+        <footer class="footer">
+            <ul class="nav">
+                    <li class="nav__item"><a href="#" class="nav__link">Find your dream home</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Request proposal</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Download home planner</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Contact us</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Submit your property</a></li>
+                    <li class="nav__item"><a href="#" class="nav__link">Come work with us!</a></li>
+            </ul>
+            <p class="copyright">
+                &copy; Copyright 2017 by Jonas Schmedtmann. Feel free to use this project for your own purposes. This does NOT apply if you plan to produce your own course or tutorials based on this project.
+            </p>
+        </footer>
+    </body>
+</html><script src="/index.HASH_REF_1cf92b8ac789bf0c8bd4b6d53ebff041.js"></script>
